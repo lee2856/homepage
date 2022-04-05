@@ -1,0 +1,7 @@
+[submodule "myWebSite/themes/barks"]
+	path = myWebSite/themes/barks
+	url = https://github.com/timothygebhard/barks
+[submodule "myWebSite/public"]
+	path = myWebSite/public
+	url = https://github.com/lee2856/lee2856.github.io.git
+	branch = main
