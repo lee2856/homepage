@@ -17,6 +17,8 @@ theme = "barks"
 	title_font = "Raleway"
 	body_font = "Raleway"
 
+[params]
+	favicon = "/static/favicon.ico"
 
 [params.colors]
 	link_color = "#2E64FE"
