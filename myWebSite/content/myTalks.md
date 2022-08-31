@@ -14,7 +14,7 @@ draft: false
 
 - July 26, 2021: *On the Security of Proofs of Sequential Work in a Post-Quantum World*, at [ITC 2021](https://itcrypto.github.io/2021/2021prog.html), on Zoom. [<a href="../talkslides/itc2021">Slides</a>]
 {{<expand "[live talk]" >}}
-{{< youtubestart aTKD0B9s4U0 1414 >}}
+{{< youtube aTKD0B9s4U0 >}}
 {{< /expand >}}
 {{<expand "[full talk]" >}}
 {{< youtube ESZb0XoOSQc >}}
