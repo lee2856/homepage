@@ -1,4 +1,4 @@
-baseURL = 'https://lee2856.github.io'
+baseURL = 'https://lee2856.github.io/'
 languageCode = 'en-us'
 title = 'Seunghoon Lee'
 theme = "hugo-theme-monochrome"
