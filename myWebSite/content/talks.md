@@ -9,6 +9,8 @@ toc: false
 
 ## Talks
 
+- **The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs.**\
+[TCC 2022](https://tcc.iacr.org/2022/), in Chicago, IL. [[Slides]](/talkslides/tcc2022/) [[Video]](https://youtu.be/dRRl6vGIIh8?t=2337)<!-- November 7, 2022 -->
 - **On Explicit Constructions of Extremely Depth Robust Graphs.**\
 [STACS 2022](https://stacs2022.sciencesconf.org/resource/page/id/5), on Zoom. [[Slides]](/talkslides/stacs2022/) [[Video]](/talkvideos/stacs2022)<!-- March 15, 2022 -->
 - **On the Security of Proofs of Sequential Work in a Post-Quantum World.**\

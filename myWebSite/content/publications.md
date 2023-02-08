@@ -8,6 +8,12 @@ toc: false
 ---
 ## Publications
 
+- **Differentially Private $L_2$-Heavy Hitters in the Sliding Window Model.**\
+[Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki), **Seunghoon Lee**, [Tamalika Mukherjee](https://web.ics.purdue.edu/~tmukherj/), and [Samson Zhou](https://samsonzhou.github.io/)\
+In [*ICLR 2023*](https://iclr.cc/Conferences/2023). {{<expand "[abstract]" >}}
+The data management of large companies often prioritize more recent data, as a source of higher accuracy prediction than outdated data. For example, the Facebook data policy retains user search histories for $6$ months while the Google data retention policy states that browser information may be stored for up to $9$ months. These policies are captured by the sliding window model, in which only the most recent $W$ statistics form the underlying dataset. In this paper, we consider the problem of privately releasing the $L_2$-heavy hitters in the sliding window model, which include $L_p$-heavy hitters for $p\le 2$ and in some sense are the strongest possible guarantees that can be achieved using polylogarithmic space, but cannot be handled by existing techniques due to the sub-additivity of the $L_2$ norm. Moreover, existing non-private sliding window algorithms use the smooth histogram framework, which has high sensitivity. To overcome these barriers, we introduce the first differentially private algorithm for $L_2$-heavy hitters in the sliding window model by initiating a number of $L_2$-heavy hitter algorithms across the stream with significantly lower threshold. Similarly, we augment the algorithms with an approximate frequency tracking algorithm with significantly higher accuracy. We then use smooth sensitivity and statistical distance arguments to show that we can add noise proportional to an estimation of the $L_2$ norm. To the best of our knowledge, our techniques are the first to privately release statistics that are related to a sub-additive function in the sliding window model, and may be of independent interest to future differentially private algorithmic design in the sliding window model.
+{{< /expand >}}
+
 - **The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs.**\
 [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki), [Blake Holman](https://blake-holman.github.io/), and **Seunghoon Lee**\
 In [*TCC 2022*](https://tcc.iacr.org/2022/). [[Full Version]](https://arxiv.org/pdf/2110.04191.pdf) {{<expand "[abstract]" >}}
