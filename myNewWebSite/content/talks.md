@@ -9,6 +9,8 @@ toc: false
 
 ## Talks
 
+- **On the Multi-User Security of Short Schnorr Signatures with Preprocessing.**\
+Purdue Crypto Reading Group. [[Slides]](/docs/index.html)<!-- December 8, 2023> -->
 - **The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs.**\
 [TCC 2022](https://tcc.iacr.org/2022/), in Chicago, IL. [[Slides]](/talkslides/tcc2022/) [[Video]](https://youtu.be/dRRl6vGIIh8?t=2337)<!-- November 7, 2022 -->
 - **On Explicit Constructions of Extremely Depth Robust Graphs.**\
