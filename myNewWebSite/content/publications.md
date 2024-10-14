@@ -10,7 +10,7 @@ toc: false
 ## Preprints
 - **A Tight Lower Bound on the TdScrypt Trapdoor Memory-Hard Function.**\
 [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki) and Seunghoon Lee\
-Cryptology ePrint Archive. [To appear] {{<expand "[abstract]" >}}
+Cryptology ePrint Archive. [[Full Version]](https://eprint.iacr.org/2024/1644.pdf) {{<expand "[abstract]" >}}
 A trapdoor Memory-Hard Function is a function that is memory-hard to evaluate for any party who does not have a trapdoor, but is substantially less expensive to evaluate with the trapdoor. Biryukov and Perin (ASIACRYPT 2017) introduced the first candidate trapdoor Memory-Hard Function called Diodon which modifies a Memory-Hard Function called Scrypt by replacing a hash chain with repeated squaring modulo a composite number $N=pq$. The trapdoor, which consists of the prime factors $p$ and $q$, allows one to compute the function with significantly reduced cumulative memory cost (CMC) $O( n \log n \log^2 N )$ where $n$ denotes the running time parameter, e.g., the length of the hash chain or repeated squaring chain. By contrast, the best-known algorithm to compute Diodon without the trapdoor has the CMC $O(n^2\log N)$. Auerbach et al. (EUROCRYPT 2024) provided the first provable lower bound on the CMC of TdScrypt --- a specific instantiation of Diodon. In particular, in idealized models, they proved that the CMC of TdScrypt is $\Omega(\frac{n^2}{\log n}\log N)$ which almost matches the upper bound $O(n^2\log N)$ but is off by a multiplicative $\log n$ factor. In this work, we show how to tighten the analysis of Auerbach et al. (EUROCRYPT 2024) and eliminate the gap. In particular, our results imply that TdScrypt has the CMC at least $\Omega(n^2\log N)$.
 {{< /expand >}}
 
