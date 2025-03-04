@@ -8,6 +8,12 @@ toc: false
 ---
 ###### Authors are listed in alphabetical order by their last name.
 ## Preprints
+- **Differentially Private Compression and the Sensitivity of LZ77.**\
+[Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki), Seunghoon Lee, and Brayan Sebastián Yepes Garcia\
+arXiv Preprint. [[Full Version]](https://arxiv.org/pdf/2502.09584) {{<expand "[abstract]" >}}
+We initiate the study of differentially private data-compression schemes motivated by the insecurity of the popular "Compress-Then-Encrypt" framework. Data compression is a useful tool which exploits redundancy in data to reduce storage/bandwidth when files are stored or transmitted. However, if the contents of a file are confidential then the *length* of a compressed file might leak confidential information about the content of the file itself. Encrypting a compressed file does not eliminate this leakage as data encryption schemes are only designed to hide the *content* of confidential message instead of the *length* of the message. In our proposed *Differentially Private Compress-Then-Encrypt* framework, we add a random positive amount of padding to the compressed file to ensure that any leakage satisfies the rigorous privacy guarantee of $(\epsilon,\delta)$-differential privacy. The amount of padding that needs to be added depends on the sensitivity of the compression scheme to small changes in the input, i.e., to what degree can changing a single character of the input message impact the length of the compressed file. While some popular compression schemes are highly sensitive to small changes in the input, we argue that effective data compression schemes do not necessarily have high sensitivity. Our primary technical contribution is analyzing the fine-grained sensitivity of the LZ77 compression scheme (IEEE Trans. Inf. Theory 1977) which is one of the most common compression schemes used in practice. We show that the global sensitivity of the LZ77 compression scheme has the upper bound $\mathcal{O}(W^{2/3}\log n)$ where $W\leq n$ denotes the size of the sliding window. When $W=n$, we show the lower bound $\Omega(n^{2/3}\log^{1/3}n)$ for the global sensitivity of the LZ77 compression scheme which is tight up to a sublogarithmic factor.
+{{< /expand >}}
+
 - **Preprocessing Security in Multiple Idealized Models with Applications to Schnorr Signatures and PSEC-KEM.**\
 [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki) and Seunghoon Lee\
 Cryptology ePrint Archive. [[Full Version]](https://eprint.iacr.org/2025/138.pdf) {{<expand "[abstract]" >}}
