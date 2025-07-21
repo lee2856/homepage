@@ -6,5 +6,5 @@ menu:
     weight: 1
 ---
 
-{{< embed-pdf url="../docs/CV_Seunghoon_Lee.pdf" >}}
-[[Download in pdf]](/docs/CV_Seunghoon_Lee.pdf)
+{{< embed-pdf url="../docs/cvshleeuwaterloo.pdf" >}}
+[[Download in pdf]](/docs/cvshleeuwaterloo.pdf)
