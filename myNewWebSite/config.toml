@@ -5,6 +5,6 @@ theme = "hugo-theme-monochrome"
 
 [params]
   enable_math = true
-  favicon = "/static/uwaterloofavicon.png"
+  favicon = "/static/favicon.png"
   custom_css = ["css/custom.css"]
   footer = "Copyright © 2022-2025 Seunghoon Lee. Powered by <a href='https://gohugo.io/' target='_blank'>Hugo</a> with <a href='https://github.com/kaiiiz/hugo-theme-monochrome' target='_blank'>monochrome</a> theme.</br>Last updated: July 21, 2025."
