@@ -8,7 +8,7 @@ toc: false
 
 ### Course Information
 * Instructor: Seunghoon Lee (seunghoon.lee@uwaterloo.ca)
-* Office Hour: Wednesday at 2:30-3:30pm on Zoom (see LEARN for the link)
+* Office Hour: TBA <!--Wednesday at 2:30-3:30pm on Zoom (see LEARN for the link)-->
 * [Course Outline](https://outline.uwaterloo.ca/viewer/view/nzs2zq)
 * Course Materials: [[LEARN]](https://learn.uwaterloo.ca/d2l/home/1255797)
 * [Piazza](https://piazza.com/class/mmm90vgahki261)
