@@ -7,6 +7,10 @@ menu:
 toc: false
 ---
 
+## At the University of Waterloo
+
+- **[Spring 2026]** MATH 138 Online **(Calculus II for Honours Mathematics).** [[Course Website]](/courses/spring2026/)
+
 ## At Purdue University
 
 - **[Fall 2021]** Graduate TA for CS 58000-DEV **(Algorithm Design, Analysis, and Implementation - Online Course Development)** with Prof. [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki/).

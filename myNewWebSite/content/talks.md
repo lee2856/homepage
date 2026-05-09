@@ -10,7 +10,7 @@ toc: false
 ## Talks
 
 - **Parallel Reversible Pebbling: Time-Space Tradeoffs on DAGs (with Cryptographic Motivation).**\
-[Tutte Colloquium](https://uwaterloo.ca/combinatorics-and-optimization/events/tutte-colloquium-seunghoon-lee-parallel-reversible-pebbling), in Waterloo, ON, Canada. [[Slides]](/talkslides/tutte2026/)
+[Tutte Colloquium](https://uwaterloo.ca/combinatorics-and-optimization/events/tutte-colloquium-seunghoon-lee-parallel-reversible-pebbling), in Waterloo, ON, Canada. [[Slides]](/talkslides/tutte2026/) [[Video]](/talkvideos/tutte2026)<!-- March 13, 2026-->
 - **Differentially Private Compression and the Sensitivity of LZ77.**\
 Act2Qrypt Virtual Seminar, on Zoom. [[Slides]](/talkslides/act2qrypt/)<!-- February 26, 2026 -->
 - **Differentially Private Compression and the Sensitivity of LZ77.**\
