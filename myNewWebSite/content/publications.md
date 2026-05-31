@@ -8,7 +8,7 @@ toc: false
 ---
 ###### Authors are listed in alphabetical order by their last name.
 ## Preprints
-
+<!--
 - **On the Multi-User Security of CSI-FiSh with Tight Reductions.**\
 Seunghoon Lee, [Maher Mamah](https://mahermamah7.github.io/maher.mamah/), and [Bruno Sterner](https://scholar.google.com/citations?user=COZZkt0AAAAJ&hl=en)
 {{<expand "[abstract]" >}}
@@ -24,7 +24,7 @@ Finally, we address the multi-user security of CSI-FiSh in the quantum random-or
 We revisit the problem of mitigating information leakage in the widely used but insecure compress-then-encrypt paradigm. While encryption hides message contents, the ciphertext length is directly related to the length of the compressed message, which may, in turn, leak information about the _content_ of the message itself. Recent work of Blocki et al. (TCC 2025) proposed an $(\epsilon,\delta)$-differentially private approach that adds randomized padding calibrated to the global sensitivity of the compression algorithm, and showed that the global sensitivity of LZ77 is $O(W^{2/3}\log n)$, where $n$ is the input length and $W$ is the sliding window size. \
 However, prior analysis focused only on sensitivity with respect to single-character edits, which leads to limited privacy guarantees when protecting longer substrings such as passwords, passphrases, cookies, or confidential user records.  A natural attempt to handle longer secrets is to appeal to group privacy, but for approximate differential privacy, this leads to very poor parameter degradation: in particular, the effective value of $\delta$ can grow exponentially with the group size $g$.  In this work, we introduce and study the sensitivity of compression schemes under block edits. Specifically, we define two strings to be $g$-neighbors if they differ only within a contiguous interval of length $g$. \
 Our main technical contribution is a nearly tight characterization of the $g$-consecutive sensitivity of LZ77. We show that the $g$-consecutive sensitivity of both LZ77 variants (with and without self-referencing) is at most $O((W^{2/3}+g+\sqrt{Wg})\log n)$. In particular, when $g \leq W^{1/3}$, the bound simplifies to $O(W^{2/3}\log n)$, matching the known bound for single-character edits. Thus, calibrating noise to the single-character sensitivity of LZ77 already suffices to protect much longer contiguous substrings. We provide matching lower bounds to demonstrate that our upper bound is tight, e.g., when $n=W=O(g^2)$, the $g$-consecutive sensitivity of LZ77 is at least $\tilde{\Omega}(g^{1.5})$, matching the $\sqrt{Wg}=O(g^{1.5})$ term from our upper bound up to a logarithmic factor.
-{{< /expand >}}
+{{< /expand >}}-->
 
 - **Preprocessing Security of (Nonzero) Short Schnorr Signatures and Hashed ElGamal KEM.**\
 [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki) and Seunghoon Lee\
