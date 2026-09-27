@@ -9,8 +9,8 @@ toc: false
 
 ## Instructor of Record
 
-- **[Fall 2026]** MATH 137 **(Calculus I for Honours Mathematics).** University of Waterloo. [[Course Website]](/courses/fall2026/)
-- **[Spring 2026]** MATH 138 Online **(Calculus II for Honours Mathematics).** University of Waterloo. [[Course Website]](/courses/spring2026/)
+- **[Fall 2026]** MATH 137 **(Calculus I for Honours Mathematics).** University of Waterloo.
+- **[Spring 2026]** MATH 138 Online **(Calculus II for Honours Mathematics).** University of Waterloo. <!--[[Course Website]](/courses/spring2026/)-->
 
 ## Teaching Assistant and Course Development
 
