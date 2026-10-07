@@ -8,11 +8,28 @@ toc: false
 ---
 
 ## Professional Services
-
-- External reviewers: [CCS 2019](https://www.sigsac.org/ccs/CCS2019/), [NDSS 2020](https://www.ndss-symposium.org/ndss2020/), [CT-RSA 2020](https://sites.google.com/view/ctrsa2020/home), [ITC 2020](https://itcrypto.github.io/), [CRYPTO 2020](https://crypto.iacr.org/2020/), [TCC 2020](https://tcc.iacr.org/2020/), [CRYPTO 2021](https://crypto.iacr.org/2021/), [ITCS 2022](http://itcs-conf.org/index.html), [FC 2022](https://fc22.ifca.ai/index.html), [ITC 2022](https://itcrypto.github.io/2022/), [CRYPTO 2022](https://crypto.iacr.org/2022/), [SYNASC 2022](https://synasc.ro/2022/), [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/), [EUROCRYPT 2023](https://eurocrypt.iacr.org/2023/), [IEEE S&P 2024](https://sp2024.ieee-security.org), [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/), [ESA 2024](https://algo-conference.org/2024/esa/), [QIP 2025](https://rsvp.duke.edu/event/qip2025/summary), [IEEE S&P 2025](https://sp2025.ieee-security.org), [RANDOM 2025](https://randomconference.com/), [TCC 2025](https://tcc.iacr.org/2025/), [Communications in Cryptology (Volume 2, Issue 4)](https://cic.iacr.org/), [DCC 2026](https://datacompressionconference.org/), [ACNS 2026](https://acns2026.github.io/), and [TCC 2026](https://tcc.iacr.org/2026/).
-
+### Program Committees
+- PQCrypto 2027
+### Conference Reviews
+- CRYPTO ([2022](https://crypto.iacr.org/2022/), [2021](https://crypto.iacr.org/2021/), [2020](https://crypto.iacr.org/2020/))
+- EUROCRYPT ([2024](https://eurocrypt.iacr.org/2024/), [2023](https://eurocrypt.iacr.org/2023/))
+- TCC ([2026](https://tcc.iacr.org/2026/), [2025](https://tcc.iacr.org/2025/), [2020](https://tcc.iacr.org/2020/))
+- IEEE S&P ([2025](https://sp2025.ieee-security.org), [2024](https://sp2024.ieee-security.org), [2023](https://www.ieee-security.org/TC/SP2023/))
+- CCS ([2019](https://www.sigsac.org/ccs/CCS2019/))
+- NDSS ([2020](https://www.ndss-symposium.org/ndss2020/))
+- Financial Cryptography ([2022](https://fc22.ifca.ai/index.html))
+- ITCS ([2022](http://itcs-conf.org/index.html))
+- ITC ([2022](https://itcrypto.github.io/2022/), [2020](https://itcrypto.github.io/))
+- RANDOM ([2025](https://randomconference.com/))
+- ACNS ([2026](https://acns2026.github.io/))
+- DCC ([2026](https://datacompressionconference.org/))
+- ESA ([2024](https://algo-conference.org/2024/esa/))
+- QIP ([2025](https://rsvp.duke.edu/event/qip2025/summary))
+- CT-RSA ([2020](https://sites.google.com/view/ctrsa2020/home))
+- SYNASC ([2022](https://synasc.ro/2022/))
+### Journal Reviews
+- Communications in Cryptology ([Volume 2, Issue 4](https://cic.iacr.org/))
 ## Selected Grants and Awards
-
 - **[2025]** Postdoctoral Mentor Award Nominee for the Office of the Vice Provost for Graduate Students and Postdoctoral Scholars, Purdue University
 - **[2023-2024]** Bilsland Dissertation Fellowship, Purdue University
 - **[2019-2023]** Graduate Research Assistantship, Purdue University
