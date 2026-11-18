@@ -11,6 +11,8 @@ toc: false
 
 ### Conference Presentations
 
+- **On the Additive Sensitivity of LZ77 Under Consecutive Edits.**\
+[TCC 2026](https://tcc.iacr.org/2026/), in New York, NY, USA. [[Slides]](/talkslides/tcc2026/)<!-- November 11, 2026 -->
 - **Differentially Private Compression and the Sensitivity of LZ77.**\
 [TCC 2025](https://tcc.iacr.org/2025/), in Aarhus, Denmark. [[Slides]](/talkslides/tcc2025/)<!-- December 5, 2025 -->
 - **The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs.**\

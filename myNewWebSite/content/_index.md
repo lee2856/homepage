@@ -4,6 +4,11 @@ type: 'blank'
 
 ![image](/shlee.jpg)
 
+<aside class="job-market-announcement" aria-labelledby="job-market-title">
+  <h2 id="job-market-title">On the academic job market <span class="job-market-period">(2026-2027)</span></h2>
+  <p>I am seeking tenure-track faculty positions in theoretical cryptography and related areas.</p>
+</aside>
+
 I am a postdoctoral researcher in the [Department of Combinatorics and Optimization](https://uwaterloo.ca/combinatorics-and-optimization/) at the [University of Waterloo](https://uwaterloo.ca/), under the mentorship of Prof. [Douglas Stebila](https://www.douglas.stebila.ca/) and Prof. [David Jao](https://djao.math.uwaterloo.ca/). My research lies at the intersection of cryptography and mathematics. Broadly, I study the security foundations of post-quantum cryptography and combinatorial questions arising in privacy, compression, and memory-hard computation.
 
 Prior to joining the University of Waterloo, I was a postdoctoral researcher at [Purdue University](https://purdue.edu/) for a year, hosted by Prof. [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki). I received my Ph.D. in the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://purdue.edu/), and was honored to be advised by Prof. [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki).

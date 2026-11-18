@@ -9,7 +9,7 @@ toc: false
 
 ## Professional Services
 ### Program Committees
-- PQCrypto 2027
+- PQCrypto ([2027](https://pqcrypto2027.ca/))
 ### Conference Reviews
 - CRYPTO ([2022](https://crypto.iacr.org/2022/), [2021](https://crypto.iacr.org/2021/), [2020](https://crypto.iacr.org/2020/))
 - EUROCRYPT ([2024](https://eurocrypt.iacr.org/2024/), [2023](https://eurocrypt.iacr.org/2023/))
